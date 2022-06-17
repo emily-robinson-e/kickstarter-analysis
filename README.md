@@ -9,9 +9,11 @@ Determine how successful Louise's play was compared to other plays.
 Analyzed the success rate of plays based on Launch Dates and Goals.
 
 ### Analysis of Outcomes - Launch Date
+![Outcomes Based on Theater Launch Date Worksheet](resources/launch_outcomes.png)
 Based on Launch Date the most successful plays lunched in May and June. The worst month to launch is December.   
 
 ### Analysis of Outcomes - Goals
+![Outcomes Based on Goals Worksheet](resources/goal_outcomes.png)
 Based on Goals the most successful goals have a range of less than 1000 to 19999 and then again between 35000 to 44999. Anything above 45000 is highly unsuccessful.
 
 ### Challenges and Difficulties Encountered
